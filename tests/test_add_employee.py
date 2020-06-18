@@ -2,7 +2,7 @@ import pdb
 
 from faker import Faker
 
-from HRMpytestProject import HRM
+from HRMpytestProject.HRM import HRM
 
 hrm = HRM()
 
